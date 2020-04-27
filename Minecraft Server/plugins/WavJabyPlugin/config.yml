@@ -1,0 +1,15 @@
+###################################################################
+#                                                                 #
+#   w             w               JJJJJJ          b               #
+#    W     W     W                    j           b               #
+#     W   W w   W    aaa   v   v      J    aaa    bbbb   y   y    #
+#      W W   W W    a  a    v v   J   J   a   a   b   b   y y     #
+#       W     W      aa a    v     JJJ     aaa a  bbbb     y      #
+#                                                         y       #
+#                                                                 #
+###################################################################
+
+
+settings:
+  language: EN_US
+  enable: true

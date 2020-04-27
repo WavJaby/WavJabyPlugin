@@ -1,0 +1,21 @@
+# variable:
+#   %pluginPrefix% = plugin prefix
+#   %fileName% = file name
+#
+#
+
+pluginPrefix: "&r[&dWavJaby's Plugin&r]"
+
+language:
+  onEnable: "%pluginPrefix%&aPlugin started"
+  onDisable: "%pluginPrefix%&cPlugin stop"
+
+  fileReloaded: "&aAll config files have been reloaded."
+
+  fileSaved: "&aAll config files have been saved."
+  saveFileFailed: "&cCould not save config files."
+
+  fileCreated: "&aThe %fileName% file has been created."
+  createFileFailed: "&cCould not crate the %fileName% file."
+
+  noPermission: "&cYou don't have tab permission"

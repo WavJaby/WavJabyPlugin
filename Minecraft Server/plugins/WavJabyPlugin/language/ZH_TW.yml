@@ -1,0 +1,20 @@
+# 變數:
+#   %pluginPrefix% = 插件名稱
+#   %fileName% = 檔案名稱
+#
+#
+
+pluginPrefix: "&r[&dWavJaby's Plugin&r]"
+
+onEnable: "%pluginPrefix%&a啟動完畢"
+onDisable: "%pluginPrefix%&c已停止"
+
+fileReload: "&a已重新讀取所有設定檔"
+
+fileSaved: "&a所有設定檔儲存完畢"
+saveFileFailed: "&c無法處存設定檔"
+
+fileCreated: "&a%fileName%創建完畢"
+createFileFailed: "&c無法創建%fileName%"
+
+noPermissions: "&c你沒有權限"

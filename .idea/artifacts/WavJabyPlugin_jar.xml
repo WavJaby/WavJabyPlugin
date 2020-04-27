@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WavJabyPlugin.jar">
+    <output-path>$PROJECT_DIR$/Minecraft Server/plugins</output-path>
+    <root id="archive" name="WavJaby's_Plugin.jar">
+      <element id="module-output" name="WavJabyPlugin.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/build/resources/main/plugin.yml" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/config" />
+    </root>
+  </artifact>
+</component>

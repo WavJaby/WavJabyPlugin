@@ -1,0 +1,16 @@
+name: WavJabyPlugin
+version: 1.0-SNAPSHOT
+main: com.wavjaby.main
+api-version: 1.13
+authors: [WavJaby]
+description: WavJaby's plugin
+
+commands:
+  wavjabyplugin:
+    description: see WavJaby's Plugin Plugin info
+    default: op
+    aliases: [wavplug]
+  test:
+    description: test command
+    default: op
+    aliases: [tst]
